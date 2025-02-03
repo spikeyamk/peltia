@@ -1,6 +1,10 @@
-# Introduction
+# Peltia
 
 Project for controlling temperature in thermal chambers using STM32 microcontrollers. It includes tools and configurations for firmware development, debugging, and serial communication.
+
+## See also
+- [API Docs placeholder](https://placehold.co/600x400)
+- [To Do List](TODO.md)
 
 ## Quickstart
 
